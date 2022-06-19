@@ -8,7 +8,7 @@
             curl_setopt($ch,CURLOPT_USERAGENT,'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.13) Gecko/20080311 Firefox/2.0.0.13');
             // $output contains the output string
             $output = curl_exec($ch);
-            file_put_contents("./NWS/feeds/alert-NYC061.xml", $output); // now your xml file is saved.
+            file_put_contents("feeds/alert-NYC061.xml", $output); // now your xml file is saved.
             // close curl resource to free up system resources
             curl_close($ch);
 
@@ -21,7 +21,7 @@
             curl_setopt($ch,CURLOPT_USERAGENT,'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.13) Gecko/20080311 Firefox/2.0.0.13');
             // $output contains the output string
             $output = curl_exec($ch);
-            file_put_contents("./NWS/feeds/alert-NJC013.xml", $output); // now your xml file is saved.
+            file_put_contents("feeds/alert-NJC013.xml", $output); // now your xml file is saved.
             // close curl resource to free up system resources
             curl_close($ch);
 
@@ -35,7 +35,7 @@
             curl_setopt($ch,CURLOPT_USERAGENT,'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.13) Gecko/20080311 Firefox/2.0.0.13');
             // $output contains the output string
             $output = curl_exec($ch);
-            file_put_contents("./NWS/feeds/weather-KCDW.xml", $output); // now your xml file is saved.
+            file_put_contents("feeds/weather-KCDW.xml", $output); // now your xml file is saved.
             // close curl resource to free up system resources
             curl_close($ch);
 
@@ -48,7 +48,7 @@
             curl_setopt($ch,CURLOPT_USERAGENT,'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.13) Gecko/20080311 Firefox/2.0.0.13');
             // $output contains the output string
             $output = curl_exec($ch);
-            file_put_contents("./NWS/feeds/weather-KNYC.xml", $output); // now your xml file is saved.
+            file_put_contents("feeds/weather-KNYC.xml", $output); // now your xml file is saved.
             // close curl resource to free up system resources
             curl_close($ch);
 ?>

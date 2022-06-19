@@ -17,28 +17,31 @@
 	<station_id>KNYC</station_id>
 	<latitude>40.78333</latitude>
 	<longitude>-73.96667</longitude>
-	<observation_time>Last Updated on Jun 17 2022, 10:51 am EDT</observation_time>
-        <observation_time_rfc822>Fri, 17 Jun 2022 10:51:00 -0400</observation_time_rfc822>
+	<observation_time>Last Updated on Jun 19 2022, 2:51 am EDT</observation_time>
+        <observation_time_rfc822>Sun, 19 Jun 2022 02:51:00 -0400</observation_time_rfc822>
 	<weather>Fair</weather>
-	<temperature_string>78.0 F (25.6 C)</temperature_string>
-	<temp_f>78.0</temp_f>
-	<temp_c>25.6</temp_c>
-	<relative_humidity>76</relative_humidity>
-	<wind_string>Variable at 5.8 MPH (5 KT)</wind_string>
-	<wind_dir>Variable</wind_dir>
-	<wind_degrees>999</wind_degrees>
-	<wind_mph>5.8</wind_mph>
-	<wind_kt>5</wind_kt>
-	<pressure_string>1006.3 mb</pressure_string>
-	<pressure_mb>1006.3</pressure_mb>
-	<pressure_in>29.74</pressure_in>
-	<dewpoint_string>70.0 F (21.1 C)</dewpoint_string>
-	<dewpoint_f>70.0</dewpoint_f>
-	<dewpoint_c>21.1</dewpoint_c>
-	<visibility_mi>8.00</visibility_mi>
+	<temperature_string>58.0 F (14.4 C)</temperature_string>
+	<temp_f>58.0</temp_f>
+	<temp_c>14.4</temp_c>
+	<relative_humidity>53</relative_humidity>
+	<wind_string>Northwest at 8.1 MPH (7 KT)</wind_string>
+	<wind_dir>Northwest</wind_dir>
+	<wind_degrees>300</wind_degrees>
+	<wind_mph>8.1</wind_mph>
+	<wind_kt>7</wind_kt>
+	<pressure_string>1012.4 mb</pressure_string>
+	<pressure_mb>1012.4</pressure_mb>
+	<pressure_in>29.92</pressure_in>
+	<dewpoint_string>41.0 F (5.0 C)</dewpoint_string>
+	<dewpoint_f>41.0</dewpoint_f>
+	<dewpoint_c>5.0</dewpoint_c>
+	<windchill_string>56 F (13 C)</windchill_string>
+      	<windchill_f>56</windchill_f>
+      	<windchill_c>13</windchill_c>
+	<visibility_mi>10.00</visibility_mi>
  	<icon_url_base>https://forecast.weather.gov/images/wtf/small/</icon_url_base>
 	<two_day_history_url>https://www.weather.gov/data/obhistory/KNYC.html</two_day_history_url>
-	<icon_url_name>skc.png</icon_url_name>
+	<icon_url_name>nskc.png</icon_url_name>
 	<ob_url>https://www.weather.gov/data/METAR/KNYC.1.txt</ob_url>
 	<disclaimer_url>https://www.weather.gov/disclaimer.html</disclaimer_url>
 	<copyright_url>https://www.weather.gov/disclaimer.html</copyright_url>

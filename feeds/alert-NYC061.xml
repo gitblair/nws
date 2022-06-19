@@ -19,10 +19,10 @@ xmlns:ha = 'http://www.alerting.net/namespace/index_1.0'
 >
 <!-- TZN = <> -->
 <!-- TZO = <> -->
-<!-- http-date = Fri, 06 Jun 2022 15:45:48 GMT -->
+<!-- http-date = Sun, 06 Jun 2022 09:12:05 GMT -->
 <id>https://alerts.weather.gov/cap/wwaatmget.php?x=NYC061&amp;y=0</id>
 <generator>NWS CAP Server</generator>
-<updated>2022-06-17T15:45:48+00:00</updated>
+<updated>2022-06-19T09:12:05+00:00</updated>
 <author>
 <name>w-nws.webmaster@noaa.gov</name>
 </author>
@@ -31,7 +31,7 @@ xmlns:ha = 'http://www.alerting.net/namespace/index_1.0'
 
   	<entry>
   	<id>https://alerts.weather.gov/cap/wwaatmget.php?x=NYC061&amp;y=0</id>
-  	<updated>2022-06-17T15:45:48+00:00</updated>
+  	<updated>2022-06-19T09:12:05+00:00</updated>
   	<author>
   	<name>w-nws.webmaster@noaa.gov</name>
   	</author>
