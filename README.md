@@ -1,7 +1,7 @@
 # nws
 Pull and parse xml from National Weather Service (weather.gov) to display on website
 
-There are 3 files
+There are 3 files. The feeds folder is required to house feeds pulled.
 
 pull-alerts-and-weathers.php - this pulls down xml from w1.weather.gov/xml/current_obs for NYC and NJ. Edit as desired but no editing required to demo.
 
