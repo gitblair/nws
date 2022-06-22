@@ -17,28 +17,28 @@
 	<station_id>KNYC</station_id>
 	<latitude>40.78333</latitude>
 	<longitude>-73.96667</longitude>
-	<observation_time>Last Updated on Jun 21 2022, 10:51 am EDT</observation_time>
-        <observation_time_rfc822>Tue, 21 Jun 2022 10:51:00 -0400</observation_time_rfc822>
-	<weather>Fair</weather>
-	<temperature_string>74.0 F (23.3 C)</temperature_string>
-	<temp_f>74.0</temp_f>
-	<temp_c>23.3</temp_c>
-	<relative_humidity>45</relative_humidity>
-	<wind_string>Calm</wind_string>
-	<wind_dir>North</wind_dir>
-	<wind_degrees>0</wind_degrees>
-	<wind_mph>0.0</wind_mph>
-	<wind_kt>0</wind_kt>
-	<pressure_string>1020.4 mb</pressure_string>
-	<pressure_mb>1020.4</pressure_mb>
-	<pressure_in>30.16</pressure_in>
-	<dewpoint_string>51.1 F (10.6 C)</dewpoint_string>
-	<dewpoint_f>51.1</dewpoint_f>
-	<dewpoint_c>10.6</dewpoint_c>
-	<visibility_mi>9.00</visibility_mi>
+	<observation_time>Last Updated on Jun 22 2022, 5:51 am EDT</observation_time>
+        <observation_time_rfc822>Wed, 22 Jun 2022 05:51:00 -0400</observation_time_rfc822>
+	<weather>Overcast</weather>
+	<temperature_string>67.0 F (19.4 C)</temperature_string>
+	<temp_f>67.0</temp_f>
+	<temp_c>19.4</temp_c>
+	<relative_humidity>81</relative_humidity>
+	<wind_string>Southeast at 5.8 MPH (5 KT)</wind_string>
+	<wind_dir>Southeast</wind_dir>
+	<wind_degrees>120</wind_degrees>
+	<wind_mph>5.8</wind_mph>
+	<wind_kt>5</wind_kt>
+	<pressure_string>1016.8 mb</pressure_string>
+	<pressure_mb>1016.8</pressure_mb>
+	<pressure_in>30.05</pressure_in>
+	<dewpoint_string>61.0 F (16.1 C)</dewpoint_string>
+	<dewpoint_f>61.0</dewpoint_f>
+	<dewpoint_c>16.1</dewpoint_c>
+	<visibility_mi>10.00</visibility_mi>
  	<icon_url_base>https://forecast.weather.gov/images/wtf/small/</icon_url_base>
 	<two_day_history_url>https://www.weather.gov/data/obhistory/KNYC.html</two_day_history_url>
-	<icon_url_name>skc.png</icon_url_name>
+	<icon_url_name>novc.png</icon_url_name>
 	<ob_url>https://www.weather.gov/data/METAR/KNYC.1.txt</ob_url>
 	<disclaimer_url>https://www.weather.gov/disclaimer.html</disclaimer_url>
 	<copyright_url>https://www.weather.gov/disclaimer.html</copyright_url>
